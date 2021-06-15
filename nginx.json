@@ -1,3 +1,22 @@
 {
-  "Hello":"hello"
+    "package_name":"",
+    "version":"",
+    "is_apt_update": true,
+    "is_apt_get_update":true,
+    "is_upgrade":true,
+    "pre_scripts":[
+        ""
+    ],
+    "apt_installs":[
+        ""
+    ],
+    "apt_get_installs":[
+        ""
+    ],
+    "post_scripts":[
+        ""
+    ],
+    "test_scripts":[
+        ""
+    ]
 }
